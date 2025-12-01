@@ -15,6 +15,7 @@
 - **[FrontCutTracking.jl](https://github.com/PenguinxCutCell/FrontCutTracking.jl)** - Front tracking and cut-cell interface methods
 - **[BenchPhaseFlow.jl](https://github.com/PenguinxCutCell/BenchPhaseFlow.jl)** - Benchmarking suite for phase flow simulations
 - **[ImplicitCutIntegration.jl](https://github.com/PenguinxCutCell/ImplicitCutIntegration.jl)** - Advanced implicit integration methods for cut cells
+- **[STLInputs.jl](https://github.com/PenguinxCutCell/STLInputs.jl)** - To read and instantiate geometries defined by STL file
 
 ### Visualization & Output
 
