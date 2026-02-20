@@ -18,6 +18,7 @@
 - **[ImplicitCutIntegration.jl](https://github.com/PenguinxCutCell/ImplicitCutIntegration.jl)** - Advanced implicit integration methods for cut cells
 - **[STLInputs.jl](https://github.com/PenguinxCutCell/STLInputs.jl)** - To read and instantiate geometries defined by STL file
 - **[isoap.jl](https://github.com/PenguinxCutCell/isoap.jl)** - Iso-surface extraction on arbitrary polyhedra and grids (J. Lopez, et al.)
+- **[gVOF.jl](https://github.com/PenguinxCutCell/gVOF.jl)** - Unsplit geometrical VOF method (J. Lopez, et al.)
 
 
 ### Visualization & Output
