@@ -9,7 +9,7 @@
 - **[CartesianGeometry.jl](https://github.com/PenguinxCutCell/CartesianGeometry.jl)** - Cartesian geometry utilities and operations for computational geometry
 - **[VofiJul.jl](https://github.com/PenguinxCutCell/VofiJul.jl)** - Volume fraction calculation tools
 - **[Vofinit.jl](https://github.com/PenguinxCutCell/Vofinit.jl)** - Initialization utilities for volume fraction computations
-- **[VOFTools.jl](github.com/PenguinxCutCell/VOFTools.jl)** - Initialization utilities for volume fraction and PLIC reconstruction
+- **[VOFTools.jl](https://github.com/PenguinxCutCell/VOFTools.jl)** - Initialization utilities for volume fraction and PLIC reconstruction
 
 ### Specialized Applications
 
