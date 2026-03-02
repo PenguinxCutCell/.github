@@ -1,15 +1,21 @@
 # 🐧 PenguinxCutCell
 
-
 ## 📦 The Project
+
+- **[CartesianGrids.jl](https://github.com/PenguinxCutCell/CartesianGrids.jl)** - Cartesian Grids definitions and utilities
+
+- **[CartesianGeometry.jl](https://github.com/PenguinxCutCell/CartesianGeometry.jl)** - Cartesian geometry utilities and operations for computational geometry
+  - **[VofiJul.jl](https://github.com/PenguinxCutCell/VofiJul.jl)** - Volume fraction calculation tools from C VOFI from a signed distance function
+  - **[Vofinit.jl](https://github.com/PenguinxCutCell/Vofinit.jl)** - Volume fraction calculation tools from Julia VOFI from a signed distance function
+  - **[VOFTools.jl](https://github.com/PenguinxCutCell/VOFTools.jl)** - Volume fraction calculation tools from Julia VOFTools from a vof field + plic interface
+  - **[ImplicitIntegration.jl](https://github.com/maltezfaria/ImplicitIntegration.jl)** - External Library from (L. Maltez Faria) Quadrature on implicitly defined function
+
+
+- **[CartesianOperators.jl](https://github.com/PenguinxCutCell/CartesianOperators.jl)** - Cartesian Operators (Diffusion, Advection, ...) 
 
 ### Core Libraries
 
-- **[Penguin. jl](https://github.com/PenguinxCutCell/Penguin.jl)** - The foundational library providing core functionality for cut-cell computations
-- **[CartesianGeometry.jl](https://github.com/PenguinxCutCell/CartesianGeometry.jl)** - Cartesian geometry utilities and operations for computational geometry
-- **[VofiJul.jl](https://github.com/PenguinxCutCell/VofiJul.jl)** - Volume fraction calculation tools
-- **[Vofinit.jl](https://github.com/PenguinxCutCell/Vofinit.jl)** - Initialization utilities for volume fraction computations
-- **[VOFTools.jl](https://github.com/PenguinxCutCell/VOFTools.jl)** - Initialization utilities for volume fraction and PLIC reconstruction
+- **[Penguin.jl](https://github.com/PenguinxCutCell/Penguin.jl)** - The foundational library providing core functionality for cut-cell computations
 
 ### Specialized Applications
 
