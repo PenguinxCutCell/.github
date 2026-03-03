@@ -10,12 +10,18 @@
   - **[VOFTools.jl](https://github.com/PenguinxCutCell/VOFTools.jl)** - Volume fraction calculation tools from Julia VOFTools from a vof field + plic interface
   - **[ImplicitIntegration.jl](https://github.com/maltezfaria/ImplicitIntegration.jl)** - External Library from (L. Maltez Faria) Quadrature on implicitly defined function
 
-
 - **[CartesianOperators.jl](https://github.com/PenguinxCutCell/CartesianOperators.jl)** - Cartesian Operators (Diffusion, Advection, ...) 
 
-### Core Libraries
+- **[PenguinBCs.jl](https://github.com/PenguinxCutCell/PenguinBCs.jl)** - Standardized type for Outer Box Boundary condition and Interface condition
+
+- **[PenguinSolverCore.jl](https://github.com/PenguinxCutCell/PenguinSolverCore.jl)** - Low-level machinery for time loop, linear system assembly
 
 - **[Penguin.jl](https://github.com/PenguinxCutCell/Penguin.jl)** - The foundational library providing core functionality for cut-cell computations
+  - **[PenguinDiffusion.jl](https://github.com/PenguinxCutCell/PenguinDiffusion.jl)** - One/Two-phase diffusion models and solvers
+  - **[PenguinTransport.jl](https://github.com/PenguinxCutCell/PenguinTransport.jl)** - One/Two-phase transport models and solvers
+
+
+  
 
 ### Specialized Applications
 
