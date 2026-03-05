@@ -20,7 +20,7 @@
   - **[PenguinDiffusion.jl](https://github.com/PenguinxCutCell/PenguinDiffusion.jl)** - One/Two-phase diffusion models and solvers
   - **[PenguinTransport.jl](https://github.com/PenguinxCutCell/PenguinTransport.jl)** - One-phase transport models and solvers
   - **[PenguinTransportDiffusion.jl](https://github.com/PenguinxCutCell/PenguinTransportDiffusion.jl)** - One-phase advection-diffusion models and solvers
-  - **[PenguinStokes.jl](https://github.com/PenguinxCutCell/PenguinStokes.jl)** - One-phase Stokes Flow models and solvers
+  - **[PenguinStokes.jl](https://github.com/PenguinxCutCell/PenguinStokes.jl)** - One/Two-phase Stokes Flow models and solvers
   - **[PenguinStefan.jl](https://github.com/PenguinxCutCell/PenguinStefan.jl)** - One/Two-phase Stefan models and solvers
 
 - **[]()** - Interface Tracking Algorithms
