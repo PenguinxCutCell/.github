@@ -23,11 +23,12 @@
   - **[PenguinStokes.jl](https://github.com/PenguinxCutCell/PenguinStokes.jl)** - One/Two-phase Stokes Flow models and solvers
   - **[PenguinStefan.jl](https://github.com/PenguinxCutCell/PenguinStefan.jl)** - One/Two-phase Stefan models and solvers
 
-- **[]()** - Interface Tracking Algorithms
+- **[]()** Interface Tracking Algorithms
   - **[LevelSetMethods.jl](https://github.com/maltezfaria/LevelSetMethods.jl)** - External Library for Level-Set Methods
   - **[isoap.jl](https://github.com/PenguinxCutCell/isoap.jl)** - Iso-surface extraction on arbitrary polyhedra and grids (J. Lopez, et al.)
   - **[gVOF.jl](https://github.com/PenguinxCutCell/gVOF.jl)** - Unsplit geometrical VOF method (J. Lopez, et al.)
 
+- **[PenguinAnalysis.jl](https://github.com/PenguinxCutCell/PenguinAnalysis.jl)** - Weighted discrete error norms and convergence utilities 
 
   
 
