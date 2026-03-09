@@ -18,12 +18,14 @@
 
 - **[Penguin.jl](https://github.com/PenguinxCutCell/Penguin.jl)** - The foundational library providing core functionality for cut-cell computations
   - **[PenguinDiffusion.jl](https://github.com/PenguinxCutCell/PenguinDiffusion.jl)** - One/Two-phase diffusion models and solvers
-  - **[PenguinTransport.jl](https://github.com/PenguinxCutCell/PenguinTransport.jl)** - One-phase transport models and solvers
-  - **[PenguinTransportDiffusion.jl](https://github.com/PenguinxCutCell/PenguinTransportDiffusion.jl)** - One-phase advection-diffusion models and solvers
+  - **[PenguinTransport.jl](https://github.com/PenguinxCutCell/PenguinTransport.jl)** - One/Two-phase transport models and solvers
+  - **[PenguinTransportDiffusion.jl](https://github.com/PenguinxCutCell/PenguinTransportDiffusion.jl)** - One/Two-phase advection-diffusion models and solvers
   - **[PenguinStokes.jl](https://github.com/PenguinxCutCell/PenguinStokes.jl)** - One/Two-phase Stokes Flow models and solvers
   - **[PenguinStefan.jl](https://github.com/PenguinxCutCell/PenguinStefan.jl)** - One/Two-phase Stefan models and solvers
+  - **[PenguinDarcy.jl](https://github.com/PenguinxCutCell/PenguinDarcy.jl)** - One/Two-phase Darcy models and solvers
 
 - **[]()** Interface Tracking Algorithms
+  - **[GlobalHeightFunctions.jl](https://github.com/PenguinxCutCell/GlobalHeightFunctions.jl)** - Global Height Functions tracking
   - **[LevelSetMethods.jl](https://github.com/maltezfaria/LevelSetMethods.jl)** - External Library for Level-Set Methods
   - **[isoap.jl](https://github.com/PenguinxCutCell/isoap.jl)** - Iso-surface extraction on arbitrary polyhedra and grids (J. Lopez, et al.)
   - **[gVOF.jl](https://github.com/PenguinxCutCell/gVOF.jl)** - Unsplit geometrical VOF method (J. Lopez, et al.)
