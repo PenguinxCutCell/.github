@@ -21,8 +21,10 @@
   - **[PenguinTransport.jl](https://github.com/PenguinxCutCell/PenguinTransport.jl)** - One/Two-phase transport models and solvers
   - **[PenguinTransportDiffusion.jl](https://github.com/PenguinxCutCell/PenguinTransportDiffusion.jl)** - One/Two-phase advection-diffusion models and solvers
   - **[PenguinStokes.jl](https://github.com/PenguinxCutCell/PenguinStokes.jl)** - One/Two-phase Stokes Flow models and solvers
+  - **[PenguinNavierStokes.jl](https://github.com/PenguinxCutCell/PenguinNavierStokes.jl)** - One/Two-phase Navier-Stokes Flow models and solvers
   - **[PenguinStefan.jl](https://github.com/PenguinxCutCell/PenguinStefan.jl)** - One/Two-phase Stefan models and solvers
   - **[PenguinDarcy.jl](https://github.com/PenguinxCutCell/PenguinDarcy.jl)** - One/Two-phase Darcy models and solvers
+  - **[PenguinStreamVorticity.jl](https://github.com/PenguinxCutCell/PenguinStreamVorticity.jl)** - One-phase Streamfunction-Vorticity models and solvers
 
 - **[]()** Interface Tracking Algorithms
   - **[GlobalHeightFunctions.jl](https://github.com/PenguinxCutCell/GlobalHeightFunctions.jl)** - Global Height Functions tracking
