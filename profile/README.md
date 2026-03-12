@@ -34,7 +34,8 @@
 
 - **[PenguinAnalysis.jl](https://github.com/PenguinxCutCell/PenguinAnalysis.jl)** - Weighted discrete error norms and convergence utilities 
 
-  
+- **[PenguinPlots.jl](https://github.com/PenguinxCutCell/PenguinPlots.jl)** - Visualization tools for solver's outputs
+
 
 ### Specialized Applications
 
@@ -45,7 +46,6 @@
 
 ### Visualization & Output
 
-- **[PenguinPlots.jl](https://github.com/PenguinxCutCell/PenguinPlots.jl)** - Visualization tools tailored for our computational domain
 - **[VTKOutputs.jl](https://github.com/PenguinxCutCell/VTKOutputs.jl)** - VTK file format output capabilities for visualization in ParaView and other tools
 
 ### Development
