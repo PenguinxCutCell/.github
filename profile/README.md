@@ -9,6 +9,8 @@
   - **[Vofinit.jl](https://github.com/PenguinxCutCell/Vofinit.jl)** - Volume fraction calculation tools from Julia VOFI from a signed distance function
   - **[VOFTools.jl](https://github.com/PenguinxCutCell/VOFTools.jl)** - Volume fraction calculation tools from Julia VOFTools from a vof field + plic interface
   - **[ImplicitIntegration.jl](https://github.com/maltezfaria/ImplicitIntegration.jl)** - External Library from (L. Maltez Faria) Quadrature on implicitly defined function
+  - **[FrontIntrinsicOps.jl](https://github.com/PenguinxCutCell/FrontIntrinsicOps.jl)** - Front Tracking mesh definition and DEC/DDG operations
+  - **[FrontCartesianGeometry.jl](https://github.com/PenguinxCutCell/FrontCartesianGeometry.jl)** - Computation of geometric moments from a Front Tracking mesh
 
 - **[CartesianOperators.jl](https://github.com/PenguinxCutCell/CartesianOperators.jl)** - Cartesian Operators (Diffusion, Advection, ...) 
 
@@ -20,18 +22,20 @@
   - **[PenguinDiffusion.jl](https://github.com/PenguinxCutCell/PenguinDiffusion.jl)** - One/Two-phase diffusion models and solvers
   - **[PenguinTransport.jl](https://github.com/PenguinxCutCell/PenguinTransport.jl)** - One/Two-phase transport models and solvers
   - **[PenguinTransportDiffusion.jl](https://github.com/PenguinxCutCell/PenguinTransportDiffusion.jl)** - One/Two-phase advection-diffusion models and solvers
+  - **[PenguinStefan.jl](https://github.com/PenguinxCutCell/PenguinStefan.jl)** - One/Two-phase Stefan models and solvers
+  - **[PenguinExtendedStefan.jl](https://github.com/PenguinxCutCell/PenguinStefan.jl)** - One/Two-phase Binary Stefan models and solvers
+  - **[PenguinStreamVorticity.jl](https://github.com/PenguinxCutCell/PenguinStreamVorticity.jl)** - One-phase Streamfunction-Vorticity models and solvers
+  - **[PenguinDarcy.jl](https://github.com/PenguinxCutCell/PenguinDarcy.jl)** - One/Two-phase Darcy models and solvers
   - **[PenguinStokes.jl](https://github.com/PenguinxCutCell/PenguinStokes.jl)** - One/Two-phase Stokes Flow models and solvers
   - **[PenguinNavierStokes.jl](https://github.com/PenguinxCutCell/PenguinNavierStokes.jl)** - One/Two-phase Navier-Stokes Flow models and solvers
-  - **[PenguinStefan.jl](https://github.com/PenguinxCutCell/PenguinStefan.jl)** - One/Two-phase Stefan models and solvers
-  - **[PenguinDarcy.jl](https://github.com/PenguinxCutCell/PenguinDarcy.jl)** - One/Two-phase Darcy models and solvers
-  - **[PenguinStreamVorticity.jl](https://github.com/PenguinxCutCell/PenguinStreamVorticity.jl)** - One-phase Streamfunction-Vorticity models and solvers
 
 - **[]()** Interface Tracking Algorithms
   - **[GlobalHeightFunctions.jl](https://github.com/PenguinxCutCell/GlobalHeightFunctions.jl)** - Global Height Functions tracking
   - **[LevelSetMethods.jl](https://github.com/maltezfaria/LevelSetMethods.jl)** - External Library for Level-Set Methods
   - **[isoap.jl](https://github.com/PenguinxCutCell/isoap.jl)** - Iso-surface extraction on arbitrary polyhedra and grids (J. Lopez, et al.)
   - **[gVOF.jl](https://github.com/PenguinxCutCell/gVOF.jl)** - Unsplit geometrical VOF method (J. Lopez, et al.)
-
+  - **[FrontTrackingMethods.jl](https://github.com/PenguinxCutCell/FrontTrackingMethods.jl)** - Front Tracking Method 
+    
 - **[PenguinAnalysis.jl](https://github.com/PenguinxCutCell/PenguinAnalysis.jl)** - Weighted discrete error norms and convergence utilities 
 
 - **[PenguinPlots.jl](https://github.com/PenguinxCutCell/PenguinPlots.jl)** - Visualization tools for solver's outputs
@@ -60,6 +64,7 @@ Legend: ✅ done · 🟡 ongoing / partial · ⚪ planned · 🔬 experimental
 | `PenguinStokes.jl` | One/two-phase Stokes flow | 🟡 | Fixed-interface strong, moving/FSI under development |
 | `PenguinNavierStokes.jl` | One/two-phase Navier–Stokes | 🟡 | Transfer from Stokes ongoing |
 | `PenguinStefan.jl` | One/two-phase Stefan problems | 🟡 | Height Function Level Set strong VOF / Front Tracking free-boundary workflows expanding |
+| `PenguinExtendedStefan.jl` | One/two-phase Binary Stefan problems | 🟡 | Height Function strong VOF / Front Tracking free-boundary workflows expanding |
 | `PenguinDarcy.jl` | One/two-phase Darcy flow | 🟡 | Gravity, tensor permeability, wells, free boundary next |
 | `PenguinStreamVorticity.jl` | Streamfunction–vorticity solver | 🟡 | 2D base in progress, 3D extension planned |
 | `GlobalHeightFunctions.jl` | Global height-function interface tracking | ✅ | Curvature extension |
